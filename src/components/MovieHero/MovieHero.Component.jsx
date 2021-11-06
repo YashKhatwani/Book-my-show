@@ -1,4 +1,4 @@
-import React, { useState, useContext } from "react";
+import React, { useContext } from "react";
 import MovieInfo from "./MovieInfo.Component";
 import { MovieContext } from "../../context/Movie.context";
 
